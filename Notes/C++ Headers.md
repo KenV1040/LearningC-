@@ -37,3 +37,5 @@ These notes are from [episode 10](https://www.youtube.com/watch?v=3tIqpEmWMLI&li
 
   - <> tells you to search include path folders
   - "" uses relative files to include
+
+- header files in the c standard library often has a .h extension, whereas the c++ standard library does not
