@@ -9,4 +9,3 @@ These notes are from [episode 7](https://www.youtube.com/watch?v=3tIqpEmWMLI&lis
 - Even if you don't have other files, it still needs to link the main function
 - If you press ctrl+f7, only compiling happens.
 - Entry point doesn't have to be a main function. You can customise it in the linker settings
-- 
