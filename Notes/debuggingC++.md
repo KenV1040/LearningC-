@@ -2,8 +2,6 @@
 
 These notes are from [episode 11](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=11)
 
-
-
 # Notes
 
 - This will be broken up into two parts:
