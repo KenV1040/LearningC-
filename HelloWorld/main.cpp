@@ -10,8 +10,12 @@ int main()
 {
 	// The << are just overloaded operators that are basically functions
 	std::cout << "Hello world" << std::endl;
+	int var = 8;
+	double* varPtr = &var;
+	
+	*varPtr = 10;
+	std::cout << var << std::endl;
 	std::cin.get();
-	Log("Woo, logging");
 	// Will assume you are returning 0 if you don't specify it
 	return 0;
 }
