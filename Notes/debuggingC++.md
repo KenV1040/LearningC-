@@ -33,3 +33,4 @@ These notes are from [episode 11](https://www.youtube.com/watch?v=3tIqpEmWMLI&li
 - Step out: Steps out of the function of whatever function you're currently in.
 - If the yellow arrow is on a line of code, it isn't executed yet. It's on that line but paused. The moment you hit the next button it will execute that line of code.   
 - To escape a loop, just set the breakpoint outside of it, then press f5 or continue
+- Once in a breakpoint, you can view disassembly (see machine instructions) by right clicking and clicking "go to disassembly"
