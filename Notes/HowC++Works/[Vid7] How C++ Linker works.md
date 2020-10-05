@@ -1,5 +1,5 @@
 # Which video?
-These notes are from [episode 7](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=7)
+These notes are from [episode 7](https://youtu.be/H4s55GgAg0I)
 
 # General
 - If error code begins with a C, it means it's a compiler error

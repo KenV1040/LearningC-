@@ -1,5 +1,5 @@
 # Which video?
-These notes are from [episode 8](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=8)
+These notes are from [episode 8](https://youtu.be/zB9RI8_wExo)
 
 # Notes
 - Main difference between each data type is really just the size.

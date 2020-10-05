@@ -1,5 +1,5 @@
 # Which video?
-These notes are from [episode 5](https://www.youtube.com/watch?v=SfGuIVzE_Os&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=5)
+These notes are from [episode 5](https://youtu.be/SfGuIVzE_Os)
 
 # Solution Configuration
 - By default, this is debug

@@ -1,6 +1,6 @@
 # Which video?
 
-These notes are from [episode 11](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=11)
+These notes are from [episode 11](https://youtu.be/0ebzPwixrJA)
 
 # Notes
 

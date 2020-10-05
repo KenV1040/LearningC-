@@ -1,6 +1,6 @@
 # Which video?
 
-These notes are from [episode 10](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=10)
+These notes are from [Vid 13](https://youtu.be/qeH9Xv_90KM)
 
 # Notes
 - In a solution with multiple projects, the solution name should be different to the project.

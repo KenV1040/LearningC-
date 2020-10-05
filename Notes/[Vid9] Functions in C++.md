@@ -1,5 +1,5 @@
 # Which video?
-These notes are from [episode 9](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=9)
+These notes are from [episode 9](https://youtu.be/V9zuox47zr0)
 
 # Notes
 - Functions aren't part of a class. Methods are part of a class.

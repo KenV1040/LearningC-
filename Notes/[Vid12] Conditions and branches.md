@@ -1,6 +1,6 @@
 # Which video?
 
-These notes are from [episode 12](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=12)
+These notes are from [episode 12](https://youtu.be/qEgCT87KOfc)
 
 # Notes
 - This covers the indepth of version of conditions and branches. Not just basic if else syntax

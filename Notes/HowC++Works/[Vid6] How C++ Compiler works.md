@@ -1,5 +1,5 @@
 # Which video?
-These notes are from [episode 6](https://www.youtube.com/watch?v=3tIqpEmWMLI&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=6)
+These notes are from [episode 6](https://youtu.be/3tIqpEmWMLI)
 
 # General
 - To turn raw text (.cpp) into an executable, you need to complete two steps:
