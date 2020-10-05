@@ -12,6 +12,11 @@ These notes are from [episode 10](https://www.youtube.com/watch?v=3tIqpEmWMLI&li
 
 
 # Images of setup
+## Source directory
 ![Image of base directory. Contains project folder(s) and the .sln file](https://i.imgur.com/1PvjOyx.png)
+
+## Project directory
 ![Image of project directory](https://i.imgur.com/5XPDOJG.png)
+
+## Project settings
 ![Image of project settings for output directory](https://i.imgur.com/SxO0UPZ.png)
