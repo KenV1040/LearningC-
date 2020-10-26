@@ -1,9 +1,7 @@
 #include <iostream>
+#include "log.cpp"
 // Anything with a has is a pre-processor statement
 // Gets evaluated before we compile the file
-
-
-void Log(const char*); // definition
 
 
 int main() 
@@ -11,10 +9,16 @@ int main()
 	// The << are just overloaded operators that are basically functions
 	std::cout << "Hello world" << std::endl;
 	int var = 8;
-	double* varPtr = &var;
+	//double* varPtr = &var;
 	
-	*varPtr = 10;
+	//*varPtr = 10;
 	std::cout << var << std::endl;
+
+	Log log;
+	log.setLevel(log.LogLevelInfo);
+	log.warn("Hello");
+	log.info("Hello");
+	log.error("Hello");
 	std::cin.get();
 	// Will assume you are returning 0 if you don't specify it
 	return 0;
