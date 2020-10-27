@@ -61,5 +61,5 @@
   - If you call this function *without* static, then this function always print out 1. Because it keeps on
     declaring int i = 0; then incrementing it by 1 every time you call the function
 - You can make a Singleton class, which will only have a *single* instance.
-  - By using a local static variable inside a method (constructor I think?) that refers to the class name.
+  - By using a local static variable inside a method that refers to the class name.
   - Make sure that method returns a reference to the class name
